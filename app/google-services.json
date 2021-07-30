@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976258872267",
+    "project_id": "booksearch-8f331",
+    "storage_bucket": "booksearch-8f331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976258872267:android:1178940ac1732ea8163c4e",
+        "android_client_info": {
+          "package_name": "com.project.booksearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976258872267-3kv6o89aeqcveaa228t9luk9cge4ohet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA24lNyHzHObHPvTHPsGTJLgBCNFkXgNFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976258872267-3kv6o89aeqcveaa228t9luk9cge4ohet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
