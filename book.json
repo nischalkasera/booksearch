@@ -1,0 +1,139 @@
+{
+	"books":
+	[
+		{
+			"title":"100 Great Marketing Ideas",
+			"author":"Jim Blythe",
+			"publisher":"Marshall Cavendish Editions",
+			"year":"2009",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/100%20Great%20Marketing%20Ideas.pdf?alt=media&token=a40d74e2-9836-473b-bda9-a08959257ee2"
+		},
+		{
+			"title":"1984",
+			"author":"George Orwell",
+			"publisher":"Secker & Warburg",
+			"year":"1949",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/1984.pdf?alt=media&token=f583a05f-d715-45d9-a659-efc7bac7484c"
+		},
+		{
+			"title":"A Brief History of Time",
+			"author":"Stephen Hawking",
+			"publisher":"Bantam Books",
+			"year":"1996",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/A%20Brief%20History%20of%20Time.pdf?alt=media&token=2b922852-ec47-4106-a5a1-45c756fe2fa8"
+		},
+		{
+			"title":"Basics of Environmental Science",
+			"author":"Michael Allaby",
+			"publisher":"Taylor and Francis Group",
+			"year":"2000",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Basics%20of%20Enviournmental%20Science.pdf?alt=media&token=e742e572-dfc5-40db-bc8c-cfc2ca9f868e"
+		},
+		{
+			"title":"Communication Theory",
+			"author":"David Holmes",
+			"publisher":"Sage Publications",
+			"year":"2005",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Communication%20Theory.pdf?alt=media&token=25deae84-039e-4bc4-930b-22b8f6ff9e47"
+		},
+		{
+			"title":"Cosmos",
+			"author":"Carl Sagan",
+			"publisher":"The Random House Publishing Group",
+			"year":"1980",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Cosmos.pdf?alt=media&token=a1a9efa7-c5f8-475e-8cfc-2c2e701d82c8"
+		},
+		{
+			"title":"Encyclopedia of Hinduism",
+			"author":"Constance A. Jones and James D. Ryan",
+			"publisher":"Infobase Publishing",
+			"year":"2007",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Encyclopedia_of_Hinduism.pdf?alt=media&token=34b5d56b-941b-4898-b86a-2221c4079bf0"
+		},
+		{
+			"title":"Ikigai - the Japanese secret to a long and happy life",
+			"author":"Héctor García and Francesc Miralles",
+			"publisher":"Penguin Random House",
+			"year":"2016",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Ikigai%20-%20the%20Japanese%20secret%20to%20a%20long%20and%20happy%20life.pdf?alt=media&token=1163a658-15c6-491b-9a0d-5476861c21ee"
+		},
+		{
+			"title":"Leader Interpersonal and Influence Skills",
+			"author":"Ronald E. Riggio and Sherylle J. Tan",
+			"publisher":"Taylor and Francis Group",
+			"year":"2014",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Leader%20Interpersonal%20and%20Influence%20Skills%20-%20The%20Soft%20Skills%20of%20Leadership.pdf?alt=media&token=3bd6598d-2475-426e-bb54-8a64c3dfc1f4"
+		},
+		{
+			"title":"The Language of Law Schools",
+			"author":"Elizabeth Mertz",
+			"publisher":"Oxford University Press",
+			"year":"2007",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Learning%20to%20Think%20Like%20a%20Lawyer.pdf?alt=media&token=c0b1f392-1a13-4714-ab80-68494bdb3503"
+		},
+		{
+			"title":"Living in the Light",
+			"author":"Shakti Gawain and Laurel King",
+			"publisher":"Nataraj Publishing",
+			"year":"1986",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Living%20in%20the%20Light.pdf?alt=media&token=37083244-1680-4041-b2c1-f3c4aba24b96"
+		},
+		{
+			"title":"Rich Dad Poor Dad",
+			"author":"Robert T. Kiyosaki",
+			"publisher":"Plata Publishing",
+			"year":"1997",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Rich%20Dad%20Poor%20Dad.pdf?alt=media&token=9dbeba77-2879-4d27-9718-0c08abf3661f"
+		},
+		{
+			"title":"Space, Time and Einstein",
+			"author":"J. B. Kennedy",
+			"publisher":"Acumen Publishing Limited",
+			"year":"2003",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Space%2C%20Time%20and%20Einstein%20.pdf?alt=media&token=11fa6900-02a3-4c6b-9d3d-9d167372b54f"
+		},
+		{
+			"title":"Sport Psychology",
+			"author":"David Lavallee, John Kremer",
+			"publisher":"Palgrave Macmillan",
+			"year":"2004",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Sport-psychology.pdf?alt=media&token=87316832-ab76-43d9-8b96-ec195c61a0f7"
+
+		},
+		{
+			"title":"Teaching Organic Farming and Gardening",
+			"author":"Martha Brown, Jan Perez",
+			"publisher":"UC Santa Cruz",
+			"year":"2003",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Teaching%20organic%20farming%20and%20gardening.pdf?alt=media&token=4a24b1db-6b94-4ee3-9dec-88d36fb63184"
+		},
+		{
+			"title":"The Alchemist",
+			"author":"Paulo Coelho",
+			"publisher":"Harper Torch",
+			"year":"1992",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/The%20Alchemist.pdf?alt=media&token=64744f0f-100a-48a6-b6dd-ae7d33ba3521"
+		},
+		{
+			"title":"The Purpose Driven Life",
+			"author":"Rick Warren",
+			"publisher":"Zondervan",
+			"year":"2002",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/The%20Purpose-Driven%20Life%20-%20What%20on%20Earth%20Am%20I%20Here%20For.pdf?alt=media&token=e6b3a7ac-ac36-4407-86c9-de0e1255b5d1"
+		},
+		{
+			"title":"Understanding Third World Politics",
+			"author":"B. C. Smith",
+			"publisher":"Palgrave Macmillan",
+			"year":"1996",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/Understanding%20third%20world%20politics.pdf?alt=media&token=79f066ba-8a18-4ffc-bf36-fac58909a351"
+		},
+		{
+			"title":"When Things Fall Apart",
+			"author":"Pema Chödrön",
+			"publisher":"Shambhala Publications",
+			"year":"1997",
+			"url":"https://firebasestorage.googleapis.com/v0/b/booksearch-8f331.appspot.com/o/When%20Things%20Fall%20Apart%20-%20Heart%20Advice%20for%20Difficult%20Time.pdf?alt=media&token=aef79d65-6189-413b-8e39-245252234618"
+		}
+	]
+}
